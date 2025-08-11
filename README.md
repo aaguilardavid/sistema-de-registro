@@ -5,3 +5,4 @@
 Para ejecutar el sistema, debes de poner:
 
  ```Instalar React```
+Sistema de REgistro 2
